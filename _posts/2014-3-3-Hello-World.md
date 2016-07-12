@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello world!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello world!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This is the first blog post from the avatao team. Avatao is an IT security challenge sharing platform that can be used for various purposes: from experimenting with hacking tools to CTF games. Sharing IT security challenges helps us to bring hands-on knowledge for all the folks interested in this topic. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Stay tuned! Will be back soon.
+
+-- Gabor Pek (CTO)

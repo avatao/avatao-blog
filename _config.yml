@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: avatao
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Practice makes perfect. avatao makes practice.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/avatao/avatao.github.io/master/images/afavicon.png
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/avatao/avatao.github.io/master/images/
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: theavatao
   flickr:
   github: avatao
   instagram:

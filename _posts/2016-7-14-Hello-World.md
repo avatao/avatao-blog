@@ -9,4 +9,4 @@ This is the first blog post from the avatao team. Avatao is an IT security chall
 
 Stay tuned! We will be back soon.
 
--- Gabor Pek (CTO)
+-- the avatao team

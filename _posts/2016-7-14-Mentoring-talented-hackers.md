@@ -4,11 +4,10 @@ title: Mentoring talented hackers at CrySyS Lab
 author: mark
 ---
 
-This is the first blog post from the [avatao] team. We hope that the platform and services will launch your adventure in IT security.
-
-[avatao] is an IT security challenge sharing platform that can be used for various purposes: from experimenting with a wide range of hacking tools to CTF games. This allows people to follow their interest and bootstrap their IT security learning adventure. 
+This is the first blog post from the [avatao] team. We hope that the platform and services will launch your adventure in IT security. [avatao] is an IT security challenge sharing platform that can be used for various purposes: from experimenting with a wide range of hacking tools to CTF games. This allows people to follow their interest and bootstrap their IT security learning adventure. 
 
 It all stems from our passionate hacker team at [CrySyS Lab]. Back in 2011, a small group of motivated students started to practice for IT security competitions, aka.  Capture-the-Flag (CTF) competitions. Gábor, our avatao co-founder organized this group as the [CrySyS Student Core] in 2013 and they started to focus on learning hacking tools and preparing for international CTF competitions. So [!SpamAndHex] was born.
+<!--excerpt-->
 
 The guys competed at every available CTF competition and within two years, !SpamAndHex went from being a tiny little Hungarian IT security team to a top hacker team in the world. Last year, they were ranked nr. 5 on [ctftime.org] which maintains a list of all hacker teams. We got into the DefCon CTF finals twice, that is a very positive feedback confirming the efforts of the !SpamAndHex team members.
 

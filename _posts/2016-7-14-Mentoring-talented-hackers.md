@@ -1,7 +1,7 @@
 ---
 layout: post
-name: joe
 title: Mentoring talented hackers at CrySyS Lab
+author: mark
 ---
 
 This is the first blog post from the [avatao] team. We hope that the platform and services will launch your adventure in IT security.

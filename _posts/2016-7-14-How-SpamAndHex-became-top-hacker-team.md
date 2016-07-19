@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How SpamAndHex became a top hacker team in the world
+title: How !SpamAndHex became a top hacker team in the world
 author: mark
 ---
 

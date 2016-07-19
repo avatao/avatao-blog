@@ -7,7 +7,7 @@ author: mark
 Summer just started in 2011, when [Gábor Pék](http://www.crysys.hu/~pek/) and [Buherátor](https://twitter.com/buherator) decided to do some nice hacking over the summer instead of going to splash in Lake Balaton all summer long. The annual international university hacking competition called [iCTF](https://ictf.cs.ucsb.edu/) was a big challenge with top competing teams. These guys needed to pull up their socks to have a chance.
 <!--excerpt-->
 
-The guys were not new in hacking, but they never considered to compete before. They read blogs and hacker news, but nothing formal. Hacking is not something you learned in a systematic way, at least until that time. But, they wanted to get better, so they assembled a cherry-picked list of security topics to practice for the competition:
+The guys were not new in hacking, but they never considered to compete before. They were typical self-taught hackers, reading blogs and hacker news, never learnt hacking in the classroom. They wanted to get better, so they assembled a cherry-picked list of security topics to practice for the competition:
 
 * Basic hacking tools: [nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [nmap](http://nmap.org/), [nikto](https://cirt.net/Nikto2), [dirbuster](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project), [acunetix](http://www.acunetix.com/vulnerability-scanner/)
 * Operating system tools: [bash](http://tldp.org/LDP/Bash-Beginners-Guide/html/), [perl](https://www.perl.org/), [python](https://www.python.org/about/gettingstarted/), [process explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx), [sysinternals tools](https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx)

@@ -6,13 +6,38 @@
 // Colors
 $blue: #4183C4;
 
+$tao-border-color: 		  #e2e2e2;
+$tao-lightgray-color:	  #9d9d9d;
+$tao-navbargreen-color:	  rgba(22,169,201,0.9);
+$tao-lettergreen-color:	  rgba(22,169,201,1.0);
+
+$tao-palette-blue-end:    rgba(74,145,207,1.0);
+$tao-palette-blue:        rgba(64,156,204,1.0);
+$tao-palette-mid:         rgba(23,171,201,1.0);
+$tao-palette-green:       rgba(13,176,176,1.0);
+$tao-palette-green-end:   rgba(31,181,148,1.0);
+
+$tao-lightgreen-bgcolor:     rgba(79, 195, 168, 0.55); // background color on the user page of website
+$tao-lightblue-bgcolor:      rgba(142, 186, 244, 0.47);
+$tao-lightgray-bgcolor:      rgba(231, 231, 231, 0.40);
+$tao-lightgreen-btncolor:    rgba(79, 195, 168, 1);
+$tao-green-shade-color:      #26B693 ;
+$tao-blue-shade-color:       #4A92CE ;
+
 // Grays
+$gray-base:               #000;
+$gray-darker:             lighten($gray-base, 13.5%);
+$gray-dark:               lighten($gray-base, 20%);
+$gray:                    lighten($gray-base, 33.5%);
+$gray-light:              lighten($gray-base, 46.7%);
+$gray-lighter:            lighten($gray-base, 93.5%);
+
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
-$gray: #666;
 $lightGray: #eee;
 $white: #fff;
+
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;

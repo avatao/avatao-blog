@@ -28,5 +28,5 @@ I think, this was the beginning of a beautiful friendship!
 
 But, how did we get from this first CTF competition to compete twice at the [DefCon finals](https://legitbs.net/)? We will tell you in the next post.
 
-In the meantime, we are creating [awesome tutorial challenges for you](https://avatao.com/) to try some of these hacker tools. Check out the hacking tools above in the list and comment if you want to suggest some tools.
+In the meantime, we are creating [awesome tutorial challenges for you](https://platform.avatao.com/challenges) to try some of these hacker tools. Check out the hacking tools above in the list and comment if you want to suggest some tools.
 

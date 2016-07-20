@@ -71,6 +71,7 @@ a {
   color: $tao-palette-green;
   text-decoration: none;
 	cursor: pointer;
+  transition: 0.3s;
   &:hover, &:active {
     color: $tao-palette-mid;
   }
@@ -272,7 +273,17 @@ nav {
     border-width: thin;
     border-radius: 3px;
     border-color: $tao-palette-mid;
+    background-color: $tao-mint-bgcolor;
     padding: 6px;
+    margin-top: 10px;
+    transition: 0.4s;
+    
+
+      &:hover{
+      color: $gray-lighter;
+      background-color: $tao-lightgreen-bgcolor;
+      border-color: $tao-palette-green-end;
+    }
   }
 }
 
@@ -294,6 +305,13 @@ footer {
   height: 40px;
   display: inline-block;
 }
+
+.companyinfo {
+  font-size: 13px;
+  padding-top: 190px;
+  text-align: center;
+  color: $gray-light;
+  }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

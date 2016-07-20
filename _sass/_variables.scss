@@ -21,8 +21,11 @@ $tao-lightgreen-bgcolor:     rgba(79, 195, 168, 0.55); // background color on th
 $tao-lightblue-bgcolor:      rgba(142, 186, 244, 0.47);
 $tao-lightgray-bgcolor:      rgba(231, 231, 231, 0.40);
 $tao-lightgreen-btncolor:    rgba(79, 195, 168, 1);
+$tao-mint-bgcolor:			 #e8f2ef ;
+$tao-footer-color:			 #28323c;
 $tao-green-shade-color:      #26B693 ;
 $tao-blue-shade-color:       #4A92CE ;
+$tao-blue-text-color:		 #1470e3 ;
 
 // Grays
 $gray-base:               #000;
@@ -40,6 +43,8 @@ $white: #fff;
 
 
 // Font stacks
+$robotoblack: "Roboto-Black-webfont", sans-serif;
+$robotolight: "Roboto-Light-webfont", sans-serif;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;

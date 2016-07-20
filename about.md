@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About
 permalink: /about/
 ---
 
@@ -11,6 +11,6 @@ We created avatao to offer people a place to deeply understand IT security by so
 Reports show that successful and innovative businesses invest in continuous learning and often create learning communities at work. avatao can deepen the understanding of technical workshops or serve as a vehicle for knowledge sharing within a company.
 
 
-### Contact me
+### Contact us
 
 [contact@avatao.com](mailto:contact@avatao.com)

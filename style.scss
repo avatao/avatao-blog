@@ -13,14 +13,17 @@
 /* BASE RULES */
 /**************/
 
-html {
+html {  
   font-size: 100%;
 }
 
 body {
 	background: $tao-mint-bgcolor;
-  font: 18px/1.4 $helveticaNeue;
-  color: $gray-light;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: $gray;
+  font-weight: 300;
+  line-height: 1.5;
 }
 
 .container {
@@ -31,9 +34,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helvetica;
+  font-family: 'Roboto';
   color: $tao-blue-text-color;
-
+  font-weight: 400;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -44,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 34px;
+  font-size: 27px;
   a {
     color: inherit;
   }
@@ -194,8 +197,8 @@ img {
   margin: 0;
   color: $gray-dark;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: 'Roboto';
+  font-weight: 400;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -213,8 +216,9 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Roboto';
   font-size: 18px;
+  font-weight: 400;
 
   @include mobile {
     float: none;
@@ -272,7 +276,7 @@ nav {
     border-style: solid;
     border-width: thin;
     border-radius: 3px;
-    border-color: $tao-palette-mid;
+    border-color: $tao-palette-green;
     background-color: $tao-mint-bgcolor;
     padding: 6px;
     margin-top: 10px;
@@ -295,7 +299,7 @@ nav {
 }
 
 footer {
-  padding: 80px 0 290px 0;
+  padding: 80px 0 224px 0;
   text-align: center;
 }
 
@@ -308,7 +312,7 @@ footer {
 
 .companyinfo {
   font-size: 13px;
-  padding-top: 190px;
+  padding-top: 100px;
   text-align: center;
   color: $gray-light;
   }

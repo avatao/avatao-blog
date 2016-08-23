@@ -24,5 +24,3 @@ For more information, read the corresponding tutorial on [OWASP](https://www.owa
 Let's rock and [say hello to avatao Tuesday](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/fa6eaf92-2f17-11e6-bdf4-0800200c9a66)
 
 Have fun! :)
-
-Gabor Pek

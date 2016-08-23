@@ -2,6 +2,8 @@
 layout: post
 title: Your first avatao Tuesday
 author: gabor
+author_name: "Gabor Pek"
+author_web: "http://www.crysys.hu/~pek/"
 ---
 
 How to get started in computer security? I think this is the first question that people raise when they are about to learn computer security. Here is [a good answer from Parisa Tabriz](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23), [computer security expert at Google](https://www.linkedin.com/in/parisa-tabriz-a676472).

@@ -15,20 +15,7 @@ layout: default
 
   <div class="entry">
     {{ content }}
-  </div>
-  	<div>
-
-		<!-- Look the author details up from the site config. -->
-		{% assign author = avatao.github.io.data.authors[page.author] %}
-
-		<!-- Output author details if some exist. -->
-		{% if author %}
-		    <span>
-		        <!-- Personal Info. -->
-		        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-		    </span>
-		{% endif %}
-	</div>
+  </div>  
 
   {% include disqus.html %}
 </article>

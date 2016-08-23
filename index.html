@@ -2,26 +2,19 @@
 layout: default
 ---
 
-{% assign author = site.authors[page.author] %}
-
-{% for author in site.authors %}
-  {{ author.name }} -- {{ author.email }}
-{% endfor %}
-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-
-        {% if author %}
-          <div class="date">
-            Written on {{ page.date | date: "%B %e, %Y" }} by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-          </div>
-        {% endif %}
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>            
+        <div class="date">
+          Written on {{ post.date | date: "%B %e, %Y" }}
+          {% if post.author %}
+           by <a href="{{ post.author_web }}" target="_blank">{{ post.author_name }}</a>
+          {% endif %}
+        </div>    
         
+      <div class="entry">
         {{ post.excerpt }}
       </div>
 

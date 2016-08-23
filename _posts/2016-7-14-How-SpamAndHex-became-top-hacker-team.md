@@ -2,6 +2,8 @@
 layout: post
 title: How !SpamAndHex became a top hacker team in the world
 author: mark
+author_name: "Mark Felegyhazi"
+author_web: "https://hu.linkedin.com/in/felegyhazi"
 ---
 
 Summer just started in 2011, when [Gábor Pék](http://www.crysys.hu/~pek/) and [Buherátor](https://twitter.com/buherator) decided to do some nice hacking over the summer instead of going to splash in Lake Balaton all summer long. The annual international university hacking competition called [iCTF](https://ictf.cs.ucsb.edu/) was a big challenge with top competing teams. These guys needed to pull up their socks to have a chance.

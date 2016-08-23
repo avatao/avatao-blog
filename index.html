@@ -9,7 +9,12 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        <div class="date"> Written on July 14, 2016 by <a href="{{ author.web }}" target="_blank">Mark Felegyhazi</a></div>
+        <!-- <div class="date"> Written on July 14, 2016 by <a href="{{ author.web }}" target="_blank">Mark Felegyhazi</a></div>
+ -->    
+        <div class="date">
+          Written on {{ page.date | date: "%B %e, %Y" }} by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+        </div>
+
         {{ post.excerpt }}
       </div>
 

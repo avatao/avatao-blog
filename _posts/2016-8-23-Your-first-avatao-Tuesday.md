@@ -8,7 +8,9 @@ author_web: "http://www.crysys.hu/~pek/"
 
 How to get started in computer security? I think this is the first question that people raise when they are about to learn computer security. Here is [a good answer from Parisa Tabriz](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23), [computer security expert at Google](https://www.linkedin.com/in/parisa-tabriz-a676472).
 
-Back in time, this was my first question as well, because I was amazed by the huge range of interesting topics I wanted to to dig into deeper. The rabbit hole, however, is really deep and if you cannot focus enough you'll get lost easily. That's why I believe that guidance and diligence are the keys to master a certain aspect of computer security. Guidance comes from friends, blogs, online courses, classrooms, IRC and so on, but diligence must come from you. You have to push yourself beyond your limits with continuous [deliberate practice](https://hbr.org/2007/07/the-making-of-an-expert). You have to start right now, because this is the right moment. 
+Back in time, this was my first question as well, because I was amazed by the huge range of interesting topics I wanted to to dig into deeper. 
+<!--excerpt-->
+The rabbit hole, however, is really deep and if you cannot focus enough you'll get lost easily. That's why I believe that guidance and diligence are the keys to master a certain aspect of computer security. Guidance comes from friends, blogs, online courses, classrooms, IRC and so on, but diligence must come from you. You have to push yourself beyond your limits with continuous [deliberate practice](https://hbr.org/2007/07/the-making-of-an-expert). You have to start right now, because this is the right moment. 
 
 **Yes, your hands will be dirty, but this is the cost of the knowledge you envisioned.**
 

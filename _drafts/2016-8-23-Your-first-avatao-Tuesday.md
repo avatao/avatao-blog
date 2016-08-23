@@ -14,5 +14,13 @@ We, the team at avatao, raised the bar high, too. We are inviting you for a jour
 
 The challenges will give insight into different topics to show you how exciting IT security can be. The only thing you need is determination even if you are entirely new to computer security. We will give you hints and recommended readings if you are entirely lost. 
 
-All right, it's high-time to get started and [say hello to avatao Tuesday](https://platform.avatao.com/paths/ee29eaed-cd00-4a4d-b4bd-4e3cd83d714b/challenges/fa6e6174-2f17-11e6-bdf4-0800200c9a66)
+All right, it's high-time to get started. 
 
+Our very first challenge is about the notorious Cross-Site Scripting (XSS) attack. XSS allows attackers to inject malicious client-side scripts into benign websites. The next time when a victim user visits the affected site this malicious script is executed in his/her browser. As the browser cannot make difference between legitimate and malicious scripts these scripts can access session tokens, cookies or other sensitive information. As a result, an attacker can hijack identities or even rewrite HTML pages. The problem mainly stems from the lack of proper input validation. 
+
+For more information, read the corresponding entries on [OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
+
+
+So here is your first XSS challenge: [say hello to avatao Tuesday](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/fa6e8883-2f17-11e6-bdf4-0800200c9a66)
+
+Have fun! :)

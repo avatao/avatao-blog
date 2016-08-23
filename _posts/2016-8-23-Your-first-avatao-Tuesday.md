@@ -12,17 +12,17 @@ Back in time, this was my first question as well, because I was amazed by the hu
 
 **Yes, your hands will be dirty, but this is the cost of the knowledge you envisioned.**
 
-We, the team at avatao, raised the bar high, too. We are inviting you for a journey by releasing a new security challenge with a small guidance every Tuesday. 
+We, the team at avatao, raised the bar high, too. We are inviting you for a journey by releasing a new security challenge with a small guidance on Tuesdays. 
 
-The challenges will give you insight into different topics to show you how exciting computer security can be. The only thing you need is determination even if you are entirely new to this area. We will give you hints and recommended readings if you are entirely lost. 
+These avatao Tuesday challenges will give you insight into different topics to show you how exciting computer security can be. The only thing you need is determination even if you are entirely new to this area. We will give you hints and recommended readings if you are entirely lost. 
 
 All right, it's high-time to get started. 
 
-Our very first challenge is about the notorious Cross-Site Scripting (XSS) attack. XSS allows attackers to inject malicious client-side scripts into benign websites. The next time when a victim user visits the affected site this malicious script is executed in his/her browser. As the browser cannot make difference between legitimate and malicious scripts these scripts can access session tokens, cookies or other sensitive information. As a result, an attacker can hijack identities or even rewrite HTML pages. The problem mainly stems from the lack of proper input validation. 
+Our very first challenge is about the notorious Cross-Site Scripting (XSS) attack. XSS allows attackers to inject malicious client-side scripts into benign websites. The next time when a victim user visits the affected site this malicious script is executed in his/her browser. As the browser cannot make difference between legitimate and malicious scripts, these scripts can access session tokens, cookies or other sensitive information. This way, an attacker can hijack identities or even rewrite HTML pages. The problem mainly stems from the lack of proper input validation. 
 
 For more information, read the corresponding tutorial on [OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 
 
-Let's rock and [say hello to avatao Tuesday](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/fa6eaf92-2f17-11e6-bdf4-0800200c9a66)
+And now, solve this [first avatao Tuesday challenge](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/fa6eaf92-2f17-11e6-bdf4-0800200c9a66)
 
 Have fun! :)

@@ -25,6 +25,6 @@ Our very first challenge is about the notorious Cross-Site Scripting (XSS) attac
 For more information, read the corresponding tutorial on [OWASP](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 
 
-**All right, let's get started. Solve your [first avatao Tuesday challenge](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/fa6eaf92-2f17-11e6-bdf4-0800200c9a66)**
+**All right, let's get started and solve your [first avatao Tuesday challenge](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/fa6eaf92-2f17-11e6-bdf4-0800200c9a66)**
 
 Have fun! :)

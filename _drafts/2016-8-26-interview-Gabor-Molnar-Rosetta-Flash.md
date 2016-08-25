@@ -2,6 +2,8 @@
 layout: post
 title: Interview: Gabor Molnar, security expert, who co-discovered Rosetta Flash
 author: gabor
+author_name: "Gabor Pek"
+author_web: "http://www.crysys.hu/~pek/"
 ---
 
 In this new series we talk to security experts on how they started their journey in this exciting field. The first is [Gabor Molnar (aka "mg")](https://hu.linkedin.com/in/gabmolnar), (also [on Twitter](https://twitter.com/molnar_g)) who independently co-discovered the infamous Rosetta Flash vulnerability and [got nominated for a Pwnie award](http://pwnies.com/archive/2014/nominations/#bestserverbug) for the best server-side bug at [BlackHat 2014](https://www.blackhat.com/us-14/).
@@ -26,7 +28,7 @@ GM: It usually starts with an idea that is then lingering for a few weeks. Then 
 
 GM: Web frameworks we regularly use still don't have a framework level protection against it, which means that it's up to each developer to properly generate HTML without introducing XSS. This approach is very error-prone. I think the situation is slowly improving as almost all browser support some version of [Content Security Policy](https://en.wikipedia.org/wiki/Content_Security_Policy) now, and developers of template systems have started to realize that a framework-level protection must be provided instead of relying on developers.
 
-*GP: Congratulations for winning [The XSS Metaphor](https://html5sec.org/minichallenges/5) security challenge? Could you please talk about your strategy? How could you solve the challenge in 48 hours?*
+*GP: Congratulations for winning [The XSS Metaphor](https://html5sec.org/minichallenges/5) security challenge. Could you please talk about your strategy? How could you solve the challenge in 48 hours?*
 
 GM: Thanks. I had a pretty good idea on the topics the authors of the challenge are interested in, as I follow their web security research pretty closely. Two of the techniques I've tried first, and were the building blocks of the intended solution: new JavaScript features introduced in the ES6 standard, and abusing Internet Explorer's XSS filter. Since I wanted to experiment with IE's XSS filter for a long time, this was a good excuse to spend some time on this challenge.
 

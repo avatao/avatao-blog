@@ -9,6 +9,7 @@ author_web: "http://www.crysys.hu/~pek/"
 In this new series we talk to security experts on how they started their journey in this exciting field. The first is [Gabor Molnar (aka "mg")](https://hu.linkedin.com/in/gabmolnar), (also [on Twitter](https://twitter.com/molnar_g)) who independently co-discovered the infamous Rosetta Flash vulnerability and [got nominated for a Pwnie award](http://pwnies.com/archive/2014/nominations/#bestserverbug) for the best server-side bug at [BlackHat 2014](https://www.blackhat.com/us-14/).
 
 Here is his story.
+<!--excerpt-->
 
 ----
 

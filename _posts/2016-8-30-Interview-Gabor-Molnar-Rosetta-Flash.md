@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview: Gabor Molnar, security expert, who co-discovered Rosetta Flash
+title: Interview with Gabor Molnar, security expert, who co-discovered Rosetta Flash
 author: gabor
 author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"

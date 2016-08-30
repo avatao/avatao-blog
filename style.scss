@@ -48,6 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 27px;
+  line-height: 1.2;
   a {
     color: inherit;
   }
@@ -290,6 +291,13 @@ nav {
       background-color: $tao-lightgreen-bgcolor;
       border-color: $tao-palette-green-end;
     }
+  }
+  .ineterviewee {
+    font-weight: 500;
+  }
+
+  .question {    
+    font-weight: 500;
   }
 }
 

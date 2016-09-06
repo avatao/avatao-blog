@@ -30,17 +30,15 @@ Let's create a 32-bit binary from this source code:
 
 ```sh
 gcc -m32 -o re_challenge re_challenge.c
-
 ```
 
 If you prefer 64 bit simply use `-m64`
 
 ```sh
 gcc -m64 -o re_challenge re_challenge.c
-
 ```
 
-There are various disassemblers available online in demo version (e.g., [IDA](https://www.hex-rays.com/products/ida/), [Binary Ninja](https://binary.ninja/demo.html)) or entirely free (e.g., [radare2](https://github.com/radare/radare2)). In this tutorial, we are going to use IDA to dissect our ![32-bit binary](../downloads/re_tuesday). If you simply open the binary in IDA you will see something similar:
+There are various disassemblers available online in demo version (e.g., [IDA](https://www.hex-rays.com/products/ida/), [Binary Ninja](https://binary.ninja/demo.html)) or entirely free (e.g., [radare2](https://github.com/radare/radare2)). In this tutorial, we are going to use IDA to dissect our [32-bit binary](../images/re_tuesday). If you simply open the binary in IDA you will see something similar:
 
 ![re_challenge](../images/re_challenge.png)
 

@@ -28,12 +28,13 @@ int main()
 
 Let's create a 32-bit binary from this source code:
 
-```
+```bash
 gcc -m32 -o re_challenge re_challenge.c
 ```
 
 If you prefer 64 bit simply use `-m64`
-```
+
+```bash
 gcc -m64 -o re_challenge re_challenge.c
 ```
 

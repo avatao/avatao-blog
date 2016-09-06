@@ -28,12 +28,13 @@ int main()
 
 Let's create a 32-bit binary from this source code:
 
-```
+```bash
 gcc -m32 -o re_challenge re_challenge.c
 ```
 
 If you prefer 64 bit simply use `-m64`
-```
+
+```bash
 gcc -m64 -o re_challenge re_challenge.c
 ```
 
@@ -53,7 +54,7 @@ Every architecture comes with an instruction set which is typically documented b
 
 In short, the code above first prepares space for the stack frame by aligning and moving the stack pointer by means of the `esp` CPU register. After that the code pushes the address of the `Hello avatao Tuesday` string to the stack and calls the `puts` function. Due to the `cdecl` [calling convention](http://www.agner.org/optimize/calling_conventions.pdf) `puts` will search its function argument on the top of the stack where the address of our string is located. 
 
-For more information about the topic we suggest to read Dennis Yurichev's [guide](https://github.com/dennis714/RE-for-beginners)
+For more information about the topic we suggest to read Dennis Yurichev's [guide](https://github.com/dennis714/RE-for-beginners).
 
 
 **All right. I am sure that after this small introduction you can solve the [second avatao Tuesday challenge](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/82aced6a-baa8-4380-a553-a14ca304283d) on reverse engineering!**

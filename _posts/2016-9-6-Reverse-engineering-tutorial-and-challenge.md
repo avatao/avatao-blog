@@ -20,7 +20,7 @@ So here is your first source code:
 
 int main()
 {
-    printf("Hello avatao Tudesday\n");
+    printf("Hello avatao Tuesday\n");
     return 0;
 }
 ```

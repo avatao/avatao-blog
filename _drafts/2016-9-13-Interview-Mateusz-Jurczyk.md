@@ -5,8 +5,7 @@ author: gabor
 author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"
 ---
-TODO:
-We are more than happy to welcome [Mateusz Jurczyk (aka "j00ru")](http://j00ru.vexillium.org/), (also [on Twitter](https://twitter.com/j00ru)) in our security expert series. If we talk about low-level kernel reversing ... He won [Pwnie awards 3 times and were nominated 6 times](http://pwnies.com/) in various categories and being one of the key members of the Dragon Sector CTF team. 
+We are more than happy to welcome [Mateusz Jurczyk (aka "j00ru")](http://j00ru.vexillium.org/), (also [on Twitter](https://twitter.com/j00ru)) as the second security expert on our blog. When talking about low-level Windows kernel security, we are unable to avoid his name. He won [Pwnie awards 3 times and were nominated 6 times](http://pwnies.com/) in various categories. He is one of the key members of the Dragon Sector CTF team which became the best team in the world in 2014 on [CTF time](https://ctftime.org).
 
 Here is his story.
 <!--excerpt-->

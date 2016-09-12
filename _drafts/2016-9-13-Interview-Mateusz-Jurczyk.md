@@ -5,7 +5,7 @@ author: gabor
 author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"
 ---
-We are more than happy to welcome [Mateusz Jurczyk (aka "j00ru")](http://j00ru.vexillium.org/), (also [on Twitter](https://twitter.com/j00ru)) as the second security expert on our blog. When talking about low-level Windows kernel security, we are unable to avoid his name. He won [Pwnie awards 3 times and were nominated 6 times](http://pwnies.com/) in various categories. He is one of the key members of the Dragon Sector CTF team which became the best team in the world in 2014 on [CTF time](https://ctftime.org).
+We are more than happy to welcome [Mateusz Jurczyk (aka "j00ru")](http://j00ru.vexillium.org/), (also [on Twitter](https://twitter.com/j00ru)) as the second security expert on our blog. When talking about low-level Windows kernel security, we are unable to skip his name. He won [Pwnie awards 3 times and were nominated 6 times](http://pwnies.com/) in various categories. He is one of the key members of the Dragon Sector CTF team which became the no.1 and no.2 team in the world in 2014 and 2015, respectively, on [CTF time](https://ctftime.org/team/3329).
 
 Here is his story.
 <!--excerpt-->

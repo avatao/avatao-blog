@@ -9,7 +9,7 @@ author_web: "http://www.crysys.hu/~pek/"
 We are more than happy to welcome [Mateusz Jurczyk (aka "j00ru")](http://j00ru.vexillium.org/), (also [on Twitter](https://twitter.com/j00ru)) as the second security expert on our blog. When talking about low-level Windows kernel security, we are unable to avoid his name. He won the [Pwnie Award 3 times and was nominated 6 times](http://pwnies.com/) in various categories. He is one of the key members of the Dragon Sector CTF team which became the best team in the world in 2014 on [CTF time](https://ctftime.org/team/3329).
 
 
-Here is his story in the exciting world of security.
+Here is his story.
 <!--excerpt-->
 
 ----
@@ -56,3 +56,6 @@ On a related note, both [Parisa Tabriz](https://medium.freecodecamp.com/so-you-w
 
 <span class="post answer">MJ:</span> For any kind of reverse engineering and debugging, I love the all-time classics: [IDA Pro](https://www.hex-rays.com/products/ida/) with Hex-Rays decompilers, [WinDbg](https://msdn.microsoft.com/en-us/library/windows/hardware/ff551063(v=vs.85).aspx) and [gdb](https://www.gnu.org/software/gdb/) with enhancement plugins such as [peda](https://github.com/longld/peda) or [pwndbg](https://github.com/pwndbg/pwndbg). I am also a huge fan of [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) (and other sanitizers from the family: [MSan](https://github.com/google/sanitizers/wiki/MemorySanitizer), [TSan](https://github.com/google/sanitizers/wiki/ThreadSanitizerCppManual) etc.), as it makes bug discovery, crash deduplication and root cause analysis so much easier for open-source software. Finally, I really enjoy using the [Bochs x86 emulator](http://bochs.sourceforge.net/) where I can, thanks to its very convenient instrumentation API, compatibility with latest CPU features and ability to instrument entire operating systems.
 
+----
+
+Follow j00ru's footsteps into reverse engineering and try yourself at these avatao challenges: [R3v3rs3 2](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/d80d53ed-597a-4b7e-9897-b85784489029), [R3v3rs3 4](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/b82ef4d6-35e8-4330-9155-9eedd332833d).

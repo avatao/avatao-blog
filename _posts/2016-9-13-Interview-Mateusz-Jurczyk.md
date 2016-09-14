@@ -34,7 +34,7 @@ The one book that inspired me to look into software security was the 1st edition
 
 <span class="post answer">MJ:</span> Thanks! I think the main factor for me is making sure that the hard problems to crack are the ones that I am passionate about and really want to work on. Beyond motivation, I believe it's also important to look at each challenge from every possible angle, be extremely stubborn and not give up too easily, and be confident in one's abilities.
 
-<span class="post question">GP: Which of your Pwnie awards you are the most proud of?</span>
+<span class="post question">GP: Which of your Pwnie awards are you the most proud of?</span>
 
 <span class="post answer">MJ:</span> I am very grateful for being awarded each of the Pwnies, and looking back in time, I had a ton of fun working on every project that lead to one. So, there are no favourites for me. In terms of impact, however, I think the Bochspwn research carried out with [Gynvael](https://twitter.com/gynvael) in 2013 had the most, as it resulted in several dozen security issues being fixed, put the spotlight on a whole class of vulnerabilities which had not been very popular before, and laid the foundation for other related projects to be built upon (e.g. Xenpwn).
 

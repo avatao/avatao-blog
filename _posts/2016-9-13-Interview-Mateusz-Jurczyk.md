@@ -38,7 +38,7 @@ The one book that inspired me to look into software security was the 1st edition
 
 <span class="post answer">MJ:</span> I am very grateful for being awarded each of the Pwnies, and looking back in time, I had a ton of fun working on every project that lead to one. So, there are no favourites for me. In terms of impact, however, I think the Bochspwn research carried out with [Gynvael](https://twitter.com/gynvael) in 2013 had the most, as it resulted in several dozen security issues being fixed, put the spotlight on a whole class of vulnerabilities which had not been very popular before, and laid the foundation for other related projects to be built upon (e.g. Xenpwn).
 
-<span class="post question">GP: What do you think are the most pressing issues in OS security today? How do you envision OS security in a few years from now?</span>
+<span class="post question">GP: What do you think the most pressing issues are in OS security today? How do you envision OS security in a few years from now?</span>
 
 <span class="post answer">MJ:</span> I think the one most pressing issue in OS security today are the various legacy design decisions and specific areas of code, which even though were introduced 20-30 years ago, are still running behind the fancy UI's and defining the security posture of modern systems. It is obvious that coding practices and the overall approach to security was completely different several decades ago, but with so many layers of new code and design built around the old ones throughout the years, it has now become very difficult to fix them. This is especially true since operating systems are widely expected to maintain backward compatibility, which often stands in the way of improving security.
 <br>

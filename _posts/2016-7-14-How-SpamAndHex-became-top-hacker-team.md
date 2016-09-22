@@ -6,7 +6,7 @@ author_name: "Mark Felegyhazi"
 author_web: "https://hu.linkedin.com/in/felegyhazi"
 ---
 
-Summer just started in 2011, when [Gábor Pék](http://www.crysys.hu/~pek/) and [Buherátor](https://twitter.com/buherator) decided to do some nice hacking over the summer instead of going to splash in Lake Balaton all summer long. The annual international university hacking competition called [iCTF](https://ictf.cs.ucsb.edu/) was a big challenge with top competing teams. These guys needed to pull up their socks to have a chance.
+Summer just started in 2011, when [Gábor Pék](http://www.crysys.hu/~pek/), [Buherátor](https://twitter.com/buherator) and [Bencsáth Boldizsár (aka "Boldi")](http://www.crysys.hu/member/bencsath) decided to do some nice hacking over the summer instead of going to splash in Lake Balaton all summer long. The annual international university hacking competition called [iCTF](https://ictf.cs.ucsb.edu/) was a big challenge with top competing teams. These guys needed to pull up their socks to have a chance.
 <!--excerpt-->
 
 The guys were not new in hacking, but they never considered to compete before. They were typical self-taught hackers, reading blogs and hacker news, never learnt hacking in the classroom. They wanted to get better, so they assembled a cherry-picked list of security topics to practice for the competition:

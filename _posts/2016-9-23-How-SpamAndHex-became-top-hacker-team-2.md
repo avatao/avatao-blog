@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How !SpamAndHex became a top hacker team in the world #2
+title: How !SpamAndHex became a top hacker team in the world (part 2)
 author: gabor
 author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"

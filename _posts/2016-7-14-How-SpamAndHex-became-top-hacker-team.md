@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How !SpamAndHex became a top hacker team in the world
+title: How !SpamAndHex became a top hacker team (part 1)
 author: mark
 author_name: "Mark Felegyhazi"
 author_web: "https://hu.linkedin.com/in/felegyhazi"

@@ -6,7 +6,7 @@ author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"
 ---
 
-Everything starts with a vision. It was in 2009 at the very beginning of my master studies at the [Budapest University of Technology and Economics, in short BME](http://www.bme.hu) in Hungary when my advisor at [CrySyS Lab](http://www.crysys.hu), [Levente Buttyán](http://www.crysys.hu/member/buttyan) (head of CrySyS Lab) contacted [Engin Kirda](http://www.ccs.neu.edu/home/ek/) who was tenured faculty at [Institute Eurecom](http://www.eurecom.fr/) (Graduate School and Research Center) at that time if there is a project I could work on together with other [iSecLab](https://iseclab.org/) guys.
+Everything starts with a vision. It was in 2009 at the very beginning of my master studies at the [Budapest University of Technology and Economics (in short BME)](http://www.bme.hu) in Hungary when my advisor, [Levente Buttyán](http://www.crysys.hu/member/buttyan) (head of [CrySyS Lab](http://www.crysys.hu)) contacted [Engin Kirda](http://www.ccs.neu.edu/home/ek/) who was tenured faculty at [Institute Eurecom](http://www.eurecom.fr/) (Graduate School and Research Center) at that time if there is a project I could work on together with other [iSecLab](https://iseclab.org/) guys.
 
 <!--excerpt-->
 

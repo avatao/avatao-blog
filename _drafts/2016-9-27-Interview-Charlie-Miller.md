@@ -42,10 +42,6 @@ envision car security in a few years from now?
 
 <span class="post answer">CM:</span> The best way is to jump in and do something. Audit a piece of software, tear apart an exploit and see how it works, write an exploit for a simple program, write security tools, etc. Security is best learned by doing.
 
-<span class="post question">GP: What do you recommend how the next generation should start learning IT security?</span>
-
-<span class="post answer">CM:</span> The best way is to jump in and do something. Audit a piece of software, tear apart an exploit and see how it works, write an exploit for a simple program, write security tools, etc. Security is best learned by doing.
-
 <span class="post question">GP: And finally. What are your favorite tools?</span>
 
 <span class="post answer">CM:</span> Well, in general I like Ida Pro and 010 editor. In the car security world, I like ecomcat and Vehicle Spy.

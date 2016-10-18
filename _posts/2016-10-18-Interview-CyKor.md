@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Interview with the CyKor CTF team
+title: Interview with the CyKOR CTF team
 author: gabor
 author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"
 ---
 
-The South Korean CTF team [CyKor](https://ctftime.org/team/369), (also [on Facebook](https://ko-kr.facebook.com/cistcykor/)) is one of the best CTF teams in the world. Together with other South Korean security experts like Junghoon Lee (aka "lokihardt") and the members of [Raon_ASRT](https://ctftime.org/team/3206) the [DEFKOR](https://ctftime.org/team/16702) CTF team was formed which won the [DEFCON CTF Finals in 2015](https://ctftime.org/event/213) and [ranked 3rd in 2016](https://ctftime.org/event/344). As team CyKor they ranked 2nd on [Belluminar](http://belluminar.org/) 2016, a top invite-only hacking contest organized by [POC](http://www.powerofcommunity.net/).
+The South Korean CTF team [CyKOR](https://ctftime.org/team/369), (also [on Facebook](https://ko-kr.facebook.com/cistcykor/)) is one of the best CTF teams in the world. Together with other South Korean security experts like Junghoon Lee (aka "lokihardt") and the members of [Raon_ASRT](https://ctftime.org/team/3206) the [DEFKOR](https://ctftime.org/team/16702) CTF team was formed which won the [DEFCON CTF Finals in 2015](https://ctftime.org/event/213) and [ranked 3rd in 2016](https://ctftime.org/event/344). As team CyKOR they ranked 2nd on [Belluminar](http://belluminar.org/) 2016, a top invite-only hacking contest organized by [POC](http://www.powerofcommunity.net/).
 
 Here is their story.
 <!--excerpt-->
 
 ----
 
-<span class="post question">Gabor Pek (avatao): When did you start CyKor and how did you guys get to know each other?</span>
+<span class="post question">Gabor Pek (avatao): When did you start CyKOR and how did you guys get to know each other?</span>
 
-<span class="post answer">CyKor: </span>CyKor was established on July 1, 2011 by some post-graduates from [Korea National University](http://korea.ac.kr/mbshome/mbs/university/index.do). Since then, undergraduates can join us as well and we currently switched to a club format. As we study in the same major, we can easily talk to each other about hacking competitions and conferences. This is not so simple for teams which are not from the same university.
+<span class="post answer">CyKOR: </span>CyKOR was established on July 1, 2011 by some post-graduates from [Korea National University](http://korea.ac.kr/mbshome/mbs/university/index.do). Since then, undergraduates can join us as well and we currently switched to a club format. As we study in the same major, we can easily talk to each other about hacking competitions and conferences. This is not so simple for teams which are not from the same university.
 
 <span class="post question">GP: How do you prepare for CTFs? Do you meet regularly to practice?</span>
 
@@ -24,17 +24,17 @@ Here is their story.
 <span class="post question">GP: How do you find new team members? Is there an official procedure?
 </span>
 
-<span class="post answer">CK:</span>We gather students only from our department and of course from our university. We find new members for each semester and recruit them. After playing a massive number of CTFs, we select the most experienced candidates to join CyKor and play CTFs together.
+<span class="post answer">CK:</span>We gather students only from our department and of course from our university. We find new members for each semester and recruit them. After playing a massive number of CTFs, we select the most experienced candidates to join CyKOR and play CTFs together.
 
 <span class="post question">GP: Do you have a long-term goal as a team?
 </span>
 
-<span class="post answer">CK:</span> We don't really have a long-term goal, but we prefer keeping our rank up high constantly. Considering our long-term goal, we would like to launch a world well-known hacking competition orgnanized by CyKor and also produce a wargame website for educational purposes.
+<span class="post answer">CK:</span> We don't really have a long-term goal, but we prefer keeping our rank up high constantly. Considering our long-term goal, we would like to launch a world well-known hacking competition orgnanized by CyKOR and also produce a wargame website for educational purposes.
 
-<span class="post question">GP: You regularly play at various CTF competitions as CyKor with really nice results (e.g., ranked 2nd on Belluminar). On DEFCON, however, your team joined DEFKOR. So what is the difference between CyKOR and DEFKOR?
+<span class="post question">GP: You regularly play at various CTF competitions as CyKOR with really nice results (e.g., ranked 2nd on Belluminar). On DEFCON, however, your team joined DEFKOR. So what is the difference between CyKOR and DEFKOR?
 </span>
 
-<span class="post answer">CK:</span> DEFKOR is a united team which integrates  CyKor, [Raon_ASRT](https://ctftime.org/team/3206) and other few great experts like Junghoon Lee. Some of the members are working for security companies or doing research as post-graduates.
+<span class="post answer">CK:</span> DEFKOR is a united team which integrates  CyKOR, [Raon_ASRT](https://ctftime.org/team/3206) and other few great experts like Junghoon Lee. Some of the members are working for security companies or doing research as post-graduates.
 
 <span class="post question">GP: What tools do you use regularly on CTFs and why those? Do you have your own toolset?</span>
 

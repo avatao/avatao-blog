@@ -6,7 +6,7 @@ author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"
 ---
 
-The South Korean CTF team [CyKor](https://ctftime.org/team/369), (also [on Facebook](https://ko-kr.facebook.com/cistcykor/)) is one of the best CTF teams in the world. Together with other South Korean security experts like Junghoon Lee (aka "Lokihardt") and the members of (Raon_ASRT)[https://ctftime.org/team/3206] the (DEFKOR)[https://ctftime.org/team/16702] CTF team was formed which won the (DEFON CTF Finals in 2015)[https://ctftime.org/team/16702] and (ranked 3rd in 2016)[https://ctftime.org/event/344]. As team CyKor they ranked 2nd on [Belluminar](http://belluminar.org/) 2016, a top invite-only hacking contest organized by (POC)[http://www.powerofcommunity.net/].
+The South Korean CTF team [CyKor](https://ctftime.org/team/369), (also [on Facebook](https://ko-kr.facebook.com/cistcykor/)) is one of the best CTF teams in the world. Together with other South Korean security experts like Junghoon Lee (aka "Lokihardt") and the members of [Raon_ASRT](https://ctftime.org/team/3206) the [DEFKOR](https://ctftime.org/team/16702) CTF team was formed which won the [DEFCON CTF Finals in 2015](https://ctftime.org/team/16702) and [ranked 3rd in 2016](https://ctftime.org/event/344). As team CyKor they ranked 2nd on [Belluminar](http://belluminar.org/) 2016, a top invite-only hacking contest organized by [POC](http://www.powerofcommunity.net/).
 
 Here is their story.
 <!--excerpt-->
@@ -31,14 +31,14 @@ Here is their story.
 
 <span class="post answer">CK:</span> We don't really have a long-term goal, but we prefer keeping our rank up high constantly. Considering our long-term goal, we would like to launch a world well-known hacking competition orgnanized by CyKor and also produce a wargame website for educational purposes.
 
-<span class="post question">GP: You regularly play on various CTF competitions as CyKor with really nice results (e.g., ranked 2nd on Belluminar). On DEFCON, however, your team joined (DEFKOR)[https://ctftime.org/team/16702]. So what is the difference between CyKOR and DEFKOR?
+<span class="post question">GP: You regularly play on various CTF competitions as CyKor with really nice results (e.g., ranked 2nd on Belluminar). On DEFCON, however, your team joined DEFKOR. So what is the difference between CyKOR and DEFKOR?
 </span>
 
-<span class="post answer">CK:</span> DEFKOR is a united team which integrates  CyKor, (Raon_ASRT)[https://ctftime.org/team/3206] and other few great experts like Junghoon Lee. Some of them are working for security companies or doing research as post-graduates.
+<span class="post answer">CK:</span> DEFKOR is a united team which integrates  CyKor, [Raon_ASRT](https://ctftime.org/team/3206) and other few great experts like Junghoon Lee. Some of them are working for security companies or doing research as post-graduates.
 
 <span class="post question">GP: What tools do you use regularly on CTFs and why those? Do you have your own toolset?</span>
 
-<span class="post answer">CK:</span> Generally, we use IDA and python. IDA Pro gives us statisfying result for reversing and pwnable challenges. As for web-hacking, we use proxys like (Fiddler)[http://www.telerik.com/fiddler], (Paros)[http://tools.kali.org/web-applications/paros] and [Burp Suite](https://portswigger.net/burp/). We especially like Fiddler which provides a very comfy interface for web challenges on CTFs.
+<span class="post answer">CK:</span> Generally, we use IDA and python. IDA Pro gives us statisfying result for reversing and pwnable challenges. As for web-hacking, we use proxys like [Fiddler](http://www.telerik.com/fiddler), [Paros](http://tools.kali.org/web-applications/paros) and [Burp Suite](https://portswigger.net/burp/). We especially like Fiddler which provides a very comfy interface for web challenges on CTFs.
 
 <span class="post question">GP: Many people argue that CTF games are not realistic. What do you think of it? Can you utilize your knowledge in your professional life? </span>
 

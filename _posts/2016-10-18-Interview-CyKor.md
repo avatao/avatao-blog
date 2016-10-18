@@ -13,13 +13,13 @@ Here is their story.
 
 ----
 
-<span class="post question">Gabor Pek (avatao): When did you found CyKor and how did you guys get to know each other?</span>
+<span class="post question">Gabor Pek (avatao): When did you start CyKor and how did you guys get to know each other?</span>
 
-<span class="post answer">CyKor: </span>CyKor was established on July 1, 2011 by some post-graduates from [Korea National University](http://korea.ac.kr/mbshome/mbs/university/index.do). Since then, undergraduates can join us and we currently switched to a club. As we study in the same major, we can easiy acknowledge each other about hacking competitions and conferences. This is not so simple for teams which are not from the same university.
+<span class="post answer">CyKor: </span>CyKor was established on July 1, 2011 by some post-graduates from [Korea National University](http://korea.ac.kr/mbshome/mbs/university/index.do). Since then, undergraduates can join us as well and we currently switched to a club format. As we study in the same major, we can easily talk to each other about hacking competitions and conferences. This is not so simple for teams which are not from the same university.
 
 <span class="post question">GP: How do you prepare for CTFs? Do you meet regularly to practice?</span>
 
-<span class="post answer">CK:</span> We don't really prepare or practice in advance on a regular basis. Normally, we practice by playing war games or solving some CTF challenges privately. We would say that studying vulnerability analysis is part of our practice. There are CTFs like DEFCON where teamwork and preparation are keys to succeed. In that case we share our roles beforehand and do the preparation together.
+<span class="post answer">CK:</span> We don't really prepare or practice in advance on a regular basis. Normally, we practice by playing war games or solving some CTF challenges privately. We would say that doing vulnerability analysis is part of our practice. There are CTFs like DEFCON where teamwork and preparation are keys to succeed. In that case, we share our roles beforehand and do the preparation together.
 
 <span class="post question">GP: How do you find new team members? Is there an official procedure?
 </span>
@@ -31,10 +31,10 @@ Here is their story.
 
 <span class="post answer">CK:</span> We don't really have a long-term goal, but we prefer keeping our rank up high constantly. Considering our long-term goal, we would like to launch a world well-known hacking competition orgnanized by CyKor and also produce a wargame website for educational purposes.
 
-<span class="post question">GP: You regularly play on various CTF competitions as CyKor with really nice results (e.g., ranked 2nd on Belluminar). On DEFCON, however, your team joined DEFKOR. So what is the difference between CyKOR and DEFKOR?
+<span class="post question">GP: You regularly play at various CTF competitions as CyKor with really nice results (e.g., ranked 2nd on Belluminar). On DEFCON, however, your team joined DEFKOR. So what is the difference between CyKOR and DEFKOR?
 </span>
 
-<span class="post answer">CK:</span> DEFKOR is a united team which integrates  CyKor, [Raon_ASRT](https://ctftime.org/team/3206) and other few great experts like Junghoon Lee. Some of them are working for security companies or doing research as post-graduates.
+<span class="post answer">CK:</span> DEFKOR is a united team which integrates  CyKor, [Raon_ASRT](https://ctftime.org/team/3206) and other few great experts like Junghoon Lee. Some of the members are working for security companies or doing research as post-graduates.
 
 <span class="post question">GP: What tools do you use regularly on CTFs and why those? Do you have your own toolset?</span>
 
@@ -42,13 +42,15 @@ Here is their story.
 
 <span class="post question">GP: Many people argue that CTF games are not realistic. What do you think of it? Can you utilize your knowledge in your professional life? </span>
 
-<span class="post answer">CK:</span>There are lot of differences compared to professional life, but we would not say that the knowledge we earned from CTFs is not useful in real-life situations. The main difference is that CTF challenges always have 'correct' answers which is not true for real-life problems such as bug-hunting. On the other hand, CTF organizers are preparing more and more difficult challenges to keep up with the advancement of new technologies. As a result, players sometimes need to find weaknesses in undocumented encryption algorithms or evade recent mitigation methods.
-Sometimes the interesting tricks of CTF challenges are reused in other CTFs also. Therefore we believe that CTF games enhance our skills in our major and motivates us to continuously learn new technologies.
+<span class="post answer">CK:</span>There are lot of differences compared to professional life, but we would not say that the knowledge we earned from CTFs is not useful in real-life situations. The main difference is that CTF challenges always have 'correct' answers which is not true for real-life problems such as bug-hunting. On the other hand, CTF organizers are preparing more and more difficult challenges to keep up with the advancement of new technologies. As a result, players sometimes need to find weaknesses in undocumented encryption algorithms or evade recent mitigation methods. Sometimes the interesting tricks of CTF challenges are reused in other CTFs also. Therefore, we believe that CTF games enhance our skills in our major and motivate us to continuously learn new technologies.
 
 <span class="post question">GP: CTF games are very popular today, however, it is quite difficult for beginners to catch up with the new challenges. How do you think this gap could be resolved? What do you suggest to those who are about to learn security now? </span>
 
-<span class="post answer">CK:</span>We recommend to start playing on wargame websites. It's quite difficult for newbies to master a thick and heavy Linux programming book and learn all the assembly languages. Recent wargame websites provide not only challenges, but related references also which is really convenient. So if you are a newbie and trying to learn  cyber security, we recommend you to check wargame websites.
+<span class="post answer">CK:</span>We recommend to start playing on wargame websites. It's quite difficult for newbies to master a thick and heavy Linux programming book and learn all the assembly languages. Recent wargame websites provide not only challenges, but related references also which is really convenient. So if you are a newbie and trying to learn cyber security, we recommend you to check wargame websites.
 
 
 ----
 
+Hey, security fan! Do as the CyKOR guys suggest and start solving a few challenges at [avatao](https://avatao.com). For a warming up, here is a [nice intro path](https://platform.avatao.com/paths/ee29eaed-cd00-4a4d-b4bd-4e3cd83d714b). If you need more excitement, try this [harder, CTF-like path](https://platform.avatao.com/paths/e1052773-cf38-4f8e-9f7f-813e5e64e400). Enjoy!
+
+-- the avatao team

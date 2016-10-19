@@ -51,11 +51,10 @@ Here is their story.
 
 ----
 
-Hey, security fan! Do as the CyKor guys suggest and start solving a few challenges at [avatao](https://avatao.com). For a warming up, here is a [nice intro path](https://platform.avatao.com/paths/ee29eaed-cd00-4a4d-b4bd-4e3cd83d714b). 
-
-[//]: # "If you need more excitement, try this [harder, CTF-like path](https://platform.avatao.com/paths/e1052773-cf38-4f8e-9f7f-813e5e64e400). Enjoy!"
-
--- the avatao team
+>If you feel like solving a few challenges, [avatao](https://avatao.com) offers you a [nice intro path](https://platform.avatao.com/paths/ee29eaed-cd00-4a4d-b4bd-4e3cd83d714b) to start with. Enjoy!
+[//]: # "If you need more excitement, try this [harder, CTF-like path](https://platform.avatao.com/paths/e1052773-cf38-4f8e-9f7f-813e5e64e400). "
+> 
+> -- the avatao team
 
 ----
 You can also read the original interview in Korean.

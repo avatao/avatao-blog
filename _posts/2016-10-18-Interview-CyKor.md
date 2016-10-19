@@ -56,7 +56,7 @@ If you feel like solving a few challenges, [avatao](https://avatao.com) offers y
 [//]: # "If you need more excitement, try this [harder, CTF-like path](https://platform.avatao.com/paths/e1052773-cf38-4f8e-9f7f-813e5e64e400). "
 
 -- the avatao team
-</span>
+
 ----
 You can also read the original interview in Korean.
 

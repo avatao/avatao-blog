@@ -1,6 +1,6 @@
 ---
 layout: post
-title: avatao Tools introduces popular security tools
+title: avataoTools introduces popular security tools
 author: gabor
 author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"
@@ -23,7 +23,7 @@ All right, I have the tool, but how can I try it out?
 
 As the question above says another problem is that the **use case** (e.g., network traffic to analyze a problem, memory snapshot to find a specific code loading technique) is missing most of the time. If we lack such use cases, the tool and the corresponding problem cannot be understood well. Creating such use cases, however, is time consuming and  requires substantial expertise. 
 
-We launch tutorials called [avatao Tools](https://avatao.com/#/tools) for various security tools with **real use-cases** to help people to get familiar with the tools needed to solve IT security problems. All the tutorials are created by field experts and provide a step-by-step description for a problem that a given tool tackles. These preconfigured use cases (e.g., files, prepared environments) highlight the features and advantages of these tools and prepare the users to apply these tools later on. 
+We now launch tutorials called [avataoTools](https://avatao.com/#/tools) for various security tools with **real use-cases** to help people to get familiar with the tools needed to solve IT security problems. All the tutorials are created by field experts and provide a step-by-step description for a problem that a given tool tackles. These preconfigured use cases (e.g., files, prepared environments) highlight the features and advantages of these tools and prepare the users to apply these tools later on. 
 
 Our first tutorials drive you through a handful of security tools: 
 * the [Unicorn CPU emulator framework](https://platform.avatao.com/paths/8e720072-9169-4d4c-9569-c330ce7fd947), 

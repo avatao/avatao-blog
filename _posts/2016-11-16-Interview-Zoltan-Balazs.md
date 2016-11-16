@@ -6,7 +6,7 @@ author_name: "Mark Felegyhazi"
 author_web: "https://hu.linkedin.com/in/felegyhazi"
 ---
 
-We are more than happy to welcome [Zoltán Balázs](https://jumpespjump.blogspot.hu/), (also [on Twitter](https://twitter.com/zh4ck)) as the next security expert on our blog. Zoli has long track records in bypassing security defense products. He regularly gives talks on security conferences such as [DEFCON](https://www.youtube.com/watch?v=ssE_mwSEH9U), [Botconf](https://www.botconf.eu/2015/sandbox-detection-for-the-masses-leak-abuse-test/) or [Hacktivity](https://hacktivity.com/en/hacktivity-2016/presentations/the-real-risks-of-the-iot-security-nightmare-hacking-ip-cameras-through-the-cloud/). He is now working as the CTO for [MRGEffitas](https://www.mrg-effitas.com/).
+We are more than happy to welcome [Zoltán Balázs](https://jumpespjump.blogspot.hu/), (also [on Twitter](https://twitter.com/zh4ck)) as the next security expert on our blog. Zoli has long track records in bypassing security defense products. He regularly gives talks on security conferences such as [DEFCON](https://www.youtube.com/watch?v=ssE_mwSEH9U), [Botconf](https://www.botconf.eu/2015/sandbox-detection-for-the-masses-leak-abuse-test/) or [Hacktivity](https://hacktivity.com/en/hacktivity-2016/presentations/the-real-risks-of-the-iot-security-nightmare-hacking-ip-cameras-through-the-cloud/). He is now working as the CTO for [MRG-Effitas](https://www.mrg-effitas.com/).
 
 Here is his story.
 <!--excerpt-->

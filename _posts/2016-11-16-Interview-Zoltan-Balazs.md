@@ -102,5 +102,5 @@ Here is his story.
 
 ----
 
-<span style="background-color:blue">You can sharpen your security skills related to python [here on avatao](https://platform.avatao.com/discover/challenges?search=python). Go ahead and don't forget to share your experiences with us (or others)!</span>
+You can sharpen your security skills related to python [here on avatao](https://platform.avatao.com/discover/challenges?search=python). Go ahead and don't forget to share your experiences with us (or others)!
 

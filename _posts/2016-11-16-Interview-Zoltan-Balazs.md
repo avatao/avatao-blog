@@ -114,5 +114,5 @@ My message to all the current and want-to-be speakers is that being rejected fro
 
 <span class="post answer">ZB: </span> It is not a tool, I know, but...
 
-<span class="post question">MF: Anyway. Thank you very much for the interview and we wish you all the best in the future!
+<span class="post question">MF: Anyway. Thank you very much for the interview and we wish you all the best in the future!</span>
 

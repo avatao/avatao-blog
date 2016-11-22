@@ -61,6 +61,6 @@ IT security?</span>
 
 <span class="post question">GP: One final question. You have contributed to many open source tools such as [netcat for windows](https://github.com/diegocr/netcat). What is your favorite security tool now and why?</span>
 
-<span class="post answer">CW: </span>  Well of course I still use netcat but perhaps [nmap](https://nmap.org/) is my favorite. Attack surface enumeration is is an important part of understanding how to attack or secure something and nmap is a great tool for that.
+<span class="post answer">CW: </span>  Well of course I still use netcat but perhaps [nmap](https://nmap.org/) is my favorite. Attack surface enumeration is an important part of understanding how to attack or secure something and nmap is a great tool for that.
 
 <span class="post question">GP: Thank you very much for the interview and we wish you all the best in the future!</span>

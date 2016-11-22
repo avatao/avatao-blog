@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview with Chris Wysopal, security evangelist
+title: Interview with Chris Wysopal, CTO of Veracode
 author: gabor
 author_name: "Gabor Pek"
 author_web: "https://www.crysys.hu/~pek"

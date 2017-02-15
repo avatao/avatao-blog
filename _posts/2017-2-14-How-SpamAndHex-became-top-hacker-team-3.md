@@ -89,7 +89,7 @@ CTF Finals in 2015. I was very proud to the team that practically did not exist 
 
 ![The !SpamAndHex team preparing for the DEFCON CTF 2015 Finals](../images/defcon_team_2015.jpg)
 
-(The !SpamAndHex team preparing for the DEFCON CTF 2015 Finals)
+(The !SpamAndHex team is preparing for the DEFCON CTF 2015 Finals)
 
 In 2016, we did no have as much time to participate at CTFs as in 2015, but we concentrated on the major events. We 
 intentionally practiced for the DEFCON qualifier and we got into the Finals again. 

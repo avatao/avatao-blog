@@ -93,6 +93,3 @@ teams had to play against the DARPA Cyber Grand Challenge winner machine Mayhem 
  
 We will keep on rolling! I am really grateful to the !SpamAndHex team members to have achieved these successes and raised
  awareness of IT security in Hungary and beyond. 
-
-
->>>>>>> 0ee2658d4f66f6b5fb83144a3c08a55a1f2e89be

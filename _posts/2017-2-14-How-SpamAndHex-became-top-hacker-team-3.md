@@ -76,11 +76,9 @@ Dániel Bali participated almost on every mentionable CTFs this year. Other memb
 So let's start 2015. First and foremost, we participated again on iCTF in April, 2015 (referred as iCTF 2014!) and we won it! 
 We invited many other talented students also from our university, but the key members were from the Core. 
 
-![iCTF 2014 scoreboard](../images/20131206_iCTF_01.jpg)
-
 Our story did not stop here. We played many CTFs with some really good results, however, the real challenge was 
 still ahead us. If you are a top team, you must play in the DEFCON CTF Finals. There are two ways to qualify for the
-DEFCON CTF Finals. Either you win one of the selected CTF games like Boston Key Party or HITCON CTF or from the official
+DEFCON CTF Finals. Either you win one of the selected CTF games like Boston Key Party, HITCON CTF or from the official
 qualifier. We took the second path and for the first time in the history a Hungarian team qualified for the DEFCON
 CTF Finals in 2015. I was very proud to the team that practically did not exist two years before.
 
@@ -97,3 +95,4 @@ We will keep on rolling! I am really grateful to the !SpamAndHex team members to
  awareness of IT security in Hungary and beyond. 
 
 
+>>>>>>> 0ee2658d4f66f6b5fb83144a3c08a55a1f2e89be

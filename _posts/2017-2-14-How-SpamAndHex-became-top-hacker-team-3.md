@@ -81,7 +81,7 @@ We invited many other talented students also from our university, but the key me
 
 Our story did not stop here. We played many CTFs with some really good results, however, the real challenge was 
 still ahead us. If you are a top team, you must play in the DEFCON CTF Finals. There are two ways to qualify for the
-DEFCON CTF Finals. Either you win one of the selected CTF games like Boston Key Party, HITCON CTF or from the official
+DEFCON CTF Finals. Either you win one of the selected CTF games like Boston Key Party, HITCON CTF or you get in from the official
 qualifier. We took the second path and for the first time in the history a Hungarian team qualified for the DEFCON
 CTF Finals in 2015. I was very proud to the team that practically did not exist two years before.
 

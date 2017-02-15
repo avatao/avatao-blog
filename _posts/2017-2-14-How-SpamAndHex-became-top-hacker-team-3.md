@@ -76,8 +76,6 @@ Dániel Bali participated almost on every mentionable CTFs this year. Other memb
 So let's start 2015. First and foremost, we participated again on iCTF in April, 2015 (referred as iCTF 2014!) and we won it! 
 We invited many other talented students also from our university, but the key members were from the Core. 
 
-![iCTF 2014 scoreboard](../images/20131206_iCTF_01.jpg)
-
 Our story did not stop here. We played many CTFs with some really good results, however, the real challenge was 
 still ahead us. If you are a top team, you must play in the DEFCON CTF Finals. There are two ways to qualify for the
 DEFCON CTF Finals. Either you win one of the selected CTF games like Boston Key Party or HITCON CTF or from the official

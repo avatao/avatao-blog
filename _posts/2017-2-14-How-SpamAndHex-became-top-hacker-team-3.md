@@ -62,8 +62,11 @@ also from our university, but the key people of our team were all Student Core m
 We could not believe it! Wow. It was an huge success for us! Something began at that point. 
    
 ![The !SpamAndHex team on iCTF 2013](../images/20131206_iCTF_02.jpg)
+(The !SpamAndHex team on iCTF 2013)
 
 ![iCTF 2013 scoreboard](../images/20131206_iCTF_01.jpg)
+(iCTF 2013 scoreboard)
+
 
 We did not stop here. Next year, in 2014, we got into the Final of Nuit du Hack and 5 of us (i.e., Dániel Bali, Gábor Molnár, 
 Gábor Vaspöri, Gábor Ács-Kurucz and Tamás Koczka) flew to Paris. These guys did their best and scored 3rd in their
@@ -83,6 +86,8 @@ qualifier. We took the second path and for the first time in the history a Hunga
 CTF Finals in 2015. I was very proud to the team that practically did not exist two years before.
 
 ![The !SpamAndHex team preparing for the DEFCON CTF 2015 Finals](../images/defcon_team_2015.jpg)
+(The !SpamAndHex team preparing for the DEFCON CTF 2015 Finals)
+
 
 In 2016, we did no have as much time to participate at CTFs as in 2015, but we concentrated on the major events. We 
 intentionally practiced for the DEFCON qualifier and we got into the Finals again. 

@@ -6,8 +6,7 @@ author_name: "Gabor Pek"
 author_web: "http://www.crysys.hu/~pek/"
 ---
 
-We are more than happy to welcome [Tamás Koczka (aka "KT")](https://twitter.com/koczkatamas) who is one of the key members of the [CrySyS Student Core](https://blog.avatao.com/How-SpamAndHex-became-top-hacker-team-3/) so that of the [!SpamAndHex](https://blog.avatao.com/How-SpamAndHex-became-top-hacker-team-3/) team also. As the captain of !SpamAndHex and the main player of the team he took part approximately 80 CTF events (including 7 finals abroad), solving hundreds of challenges from various topics 
-of information security. He currently works as a security engineer at [Tresorit](https://tresorit.com), a CrySyS spin-off. As one of the earliest coworkers of Tresorit, he helped providing real security and keeping their privacy to hundreds of thousands of users.
+We are more than happy to welcome [Tamás Koczka (aka "KT")](https://twitter.com/koczkatamas) who is one of the key members of the [CrySyS Student Core](https://blog.avatao.com/How-SpamAndHex-became-top-hacker-team-3/) so that of the [!SpamAndHex](https://blog.avatao.com/How-SpamAndHex-became-top-hacker-team-3/) team also. As the captain of !SpamAndHex and the main player of the team he participated approximately 80 CTF events (including 7 finals abroad) solving hundreds of challenges from various topics in information security. He currently works as a security engineer at [Tresorit](https://tresorit.com), a CrySyS spin-off. As one of the earliest coworkers at Tresorit, he helped providing real security and keeping their privacy to hundreds of thousands of users.
 
 Here is his story.
 <!--excerpt-->

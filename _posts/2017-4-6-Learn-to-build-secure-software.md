@@ -46,7 +46,7 @@ the distance between those characters. Semantically, the functionality seems to 
 of security, it is not good.
   
  
-```c_cpp
+``` c
 inline char upper (c)
 {
   return (c >= 'a') ? c-('a'-'A') : c;
@@ -93,7 +93,7 @@ easily filtered out by averaging multiple measurements of the same input.
 ### The fix 
 The correct solution is to go through all characters instead of stopping after the first differing chars.
  
-```c_cpp
+``` c
 ...
 if (strlen (id) != strlen (correct_id))
     return 1;

@@ -25,7 +25,6 @@ but if you are not familiar with race conditions your code can easily fail here.
 security pitfalls of technology you use and risks you take when you write your code. Long story short here are the most 
 important takeaways that we have in mind. 
 
-![ROI](../images/secure_software_ROI.jpg)
 
 ## Security by design
 
@@ -47,8 +46,7 @@ the distance between those characters. Semantically, the functionality seems to 
 of security, it is not good.
   
  
-```
-
+```c_cpp
 inline char upper (c)
 {
   return (c >= 'a') ? c-('a'-'A') : c;
@@ -81,7 +79,7 @@ With this information, an attacker could guess the length of the correct ID by s
  one character at a time (e.g., by incrementing the character until the return value changes from -1 to +1, or by 
  using a binary search algorithm).
  
- ### Problem #2 - Timing-based side channel attack
+### Problem #2 - Timing-based side channel attack
  
 An attacker could also gain information about the ID by measuring the time it takes for the program to respond. 
 Let’s assume that it takes the CPU 1ms to complete each character-check. In that case, checking ABCDXXX against ABCD1234
@@ -92,21 +90,20 @@ one at a time by trying all possible characters, since the character with the lo
 One might be tempted to add random delays to the function in order to prevent these kind of attacks, but those can be 
 easily filtered out by averaging multiple measurements of the same input.
  
- ### The fix 
- The correct solution is to go through all characters instead of stopping after the first differing chars.
+### The fix 
+The correct solution is to go through all characters instead of stopping after the first differing chars.
  
- ```
- ...
- if (strlen (id) != strlen (correct_id))
-     return 1;
+```c_cpp
+...
+if (strlen (id) != strlen (correct_id))
+    return 1;
   
- while (*id)
-     d |= upper (*id++) ^ upper (*correct_id++);
+while (*id)
+    d |= upper (*id++) ^ upper (*correct_id++);
   
- return d != 0;
- ...
- ```
-
+return d != 0;
+...
+```
 
 You can also check this challenge [here](https://platform.avatao.com/paths/2bf3c9cb-f759-4915-9a2f-f30164c45fce/challenges/fa6e8880-2f17-11e6-bdf4-0800200c9a66) created by Erik Varga Krisztián from !SpamAndHex.
 
@@ -120,8 +117,7 @@ before you start writing even a single line of code for your brand new web servi
 into the security pitfalls of available programming languages and web frameworks. Personally, I really like [Angular 4 (was released
 a few weeks ago)](https://angular.io/) where security was taken into account from the very beginning.
  
- You can read more about threat modeling [here](https://www.owasp.org/index.php/Category:Threat_Modeling).
-
+You can read more about threat modeling [here](https://www.owasp.org/index.php/Category:Threat_Modeling).
 
 ## Code review
 I am sure that you also do code review before you merge into your production branch. In my opinion, this is the last point 
@@ -132,7 +128,7 @@ save you a lot of time and pain.
 
  
 My final thought is that we can achieve huge improvements in security, by just simply taking care of the most 
- obvious things. Don't forget, the very first hit returned by Google to your search query may not be the right answer 
- to your problem.
+obvious things. Don't forget, the very first hit returned by Google to your search query may not be the right answer 
+to your problem.
  
 See you later.

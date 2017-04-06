@@ -10,7 +10,7 @@ We are writing  millions lines of code day by day, but only a few of us take sec
 We exactly know that it's really easy to put security aside as it takes more investment than 
 just inserting the very first working answer from stackoverflow. Everybody says that security is important, but
 the reality is that we'll always find a good reason to neglect it, if it is not built in entirely
-into our [software development lifcycle (SDLC)](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm). 
+into our [Software Development Lifecycle (SDLC)](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm). 
  
 Thinking with the mindset of a security guy does not come instantly, we have to train ourselves to design and implement
 something which is fairly good as a software and does not expose too many low-hanging vulnerabilities. We share with you 
@@ -22,13 +22,13 @@ It is not easy, to keep in mind all the attack vectors and be up-to-date with al
 google raises on a daily basis. No matter what software stack you write code for security issues are all around us. 
 For example, if you are Java developer your managed code will probably not contain buffer overflow vulnerabilities, 
 but if you are not familiar with race conditions your code can easily fail here. Thus, you have to be aware of the 
-security pitfalls of technology you use and risks you take when you write your code. Long story short here are the most 
+security pitfalls of technology you use and risks you take when you write your code. Long story short, here are the most 
 important takeaways that we have in mind. 
 
 
 ## Security by design
 
-Security should be the integral part of your Software Development Lifecycle (SDLC) from the very first moment. We 
+Security should be the integral part of your SDLC from the very first moment. We 
 know that is almost impossible as we rely on huge piles of 3rd party and legacy codes. Still, the earlier you
  make steps towards this integration, the better code quality you can reach in terms of security.  There are many references 
  and guides online (e.g., [OWASP](https://www.owasp.org/index.php/Secure_SDLC_Cheat_Sheet), 
@@ -72,19 +72,19 @@ int id_check (char* id, char* correct_id)
 ```
 ### Problem #1 - Information Leakage
 
-The original `id_check` function returns different values based on where the check failed: 2 if the input’s length is 
-incorrect, and -1 or +1 depending on whether the first differing character is smaller or larger than the correct character. 
+The original `id_check` function returns different values based on where the check failed: `2` if the input’s length is 
+incorrect, and `-1` or `+1` depending on whether the first differing character is smaller or larger than the correct character. 
 With this information, an attacker could guess the length of the correct ID by sending in larger and larger
- inputs until the function returns with something other than 2. After guessing the length, he could guess the ID 
- one character at a time (e.g., by incrementing the character until the return value changes from -1 to +1, or by 
+ inputs until the function returns with something other than `2`. After guessing the length, he could guess the ID 
+ one character at a time (e.g., by incrementing the character until the return value changes from `-1` to `+1`, or by 
  using a binary search algorithm).
  
 ### Problem #2 - Timing-based side channel attack
  
 An attacker could also gain information about the ID by measuring the time it takes for the program to respond. 
-Let’s assume that it takes the CPU 1ms to complete each character-check. In that case, checking ABCDXXX against ABCD1234
-takes 5ms, because the program exits after the 5th character ('X' != '1'). However, checking ABCD1XX against ABCD1234 takes 6ms, 
-because the program only exits after the 6th character ('X' != '2'). The attacker could once again guess the characters
+Let’s assume that it takes the CPU 1ms to complete each character-check. In that case, checking `ABCDXXX` against `ABCD1234`
+takes 5ms, because the program exits after the 5th character `('X' != '1')`. However, checking `ABCD1XX` against `ABCD1234` takes 6ms, 
+because the program only exits after the 6th character `('X' != '2')`. The attacker could once again guess the characters
 one at a time by trying all possible characters, since the character with the longest response time will be the correct one.
  
 One might be tempted to add random delays to the function in order to prevent these kind of attacks, but those can be 
@@ -112,7 +112,7 @@ As the saying goes "Think like an attacker". No matter what software component w
 threat model in mind. Threat modeling motivates you to identify all the information that might affect the security of 
 your software. A good threat model helps you to collect and categorize weaknesses that your software can have. 
 
-We suggest you to have a threat model in each phase of your software development lifecycle. For example, 
+We suggest you to have a threat model in each phase of your SDLC. For example, 
 before you start writing even a single line of code for your brand new web service, it's worth investing some time
 into the security pitfalls of available programming languages and web frameworks. Personally, I really like [Angular 4 (was released
 a few weeks ago)](https://angular.io/) where security was taken into account from the very beginning.
@@ -127,7 +127,7 @@ finds it. So my advise is that you should take code review seriously, because a 
 save you a lot of time and pain.
 
  
-My final thought is that we can achieve huge improvements in security, by just simply taking care of the most 
+My final thought is that we can achieve huge improvements in security by just simply taking care of the most 
 obvious things. Don't forget, the very first hit returned by Google to your search query may not be the right answer 
 to your problem.
  

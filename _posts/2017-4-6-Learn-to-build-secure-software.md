@@ -18,22 +18,22 @@ some takeaways that we experienced while developing our platform and faced at ou
 
 <!--excerpt-->
 
-It is not easy, to keep in mind all the attack vectors and be up-to-date with all the vulnerabilities that 
+It is not easy to keep in mind all the attack vectors and be up-to-date with all the vulnerabilities that 
 google raises on a daily basis. No matter what software stack you write code for security issues are all around us. 
 For example, if you are Java developer your managed code will probably not contain buffer overflow vulnerabilities, 
 but if you are not familiar with race conditions your code can easily fail here. Thus, you have to be aware of the 
-security pitfalls of technology you use and risks you take when you write your code. Long story short, here are the most 
+security pitfalls of the technology you use and the risks you take when you write your code. Long story short, here are the most 
 important takeaways that we have in mind. 
 
 
 ## Security by design
 
 Security should be the integral part of your SDLC from the very first moment. We 
-know that is almost impossible as we rely on huge piles of 3rd party and legacy codes. Still, the earlier you
+know that it is almost impossible as we rely on huge piles of 3rd party and legacy codes. Still, the earlier you
  make steps towards this integration, the better code quality you can reach in terms of security.  There are many references 
  and guides online (e.g., [OWASP](https://www.owasp.org/index.php/Secure_SDLC_Cheat_Sheet), 
  [NIST](http://csrc.nist.gov/publications/PubsSPs.html)) that can be helpful. Don't forget: no matter what software 
- development model (e.g., Agile, Waterfall) you use security should cover each phase of your software life cycle.  
+ development model (e.g., Agile, Waterfall) you use, security should cover each phase of your software life cycle.  
 
 
 
@@ -43,7 +43,7 @@ Let me give you an example. Take a look at the following code. It simply compare
 The `id_check` function returns 0 if the input ID is correct, and any non-0 value otherwise. To achieve this, it 
 first compares the length of these IDs, then simply puts each character into upper case and calculates 
 the distance between those characters. Semantically, the functionality seems to be correct, however, from the perspective
-of security, it is not good.
+of security it is not good.
   
  
 ``` c

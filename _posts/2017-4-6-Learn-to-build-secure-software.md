@@ -10,7 +10,7 @@ We are writing  millions lines of code day by day, but only a few of us take sec
 We exactly know that it's really easy to put security aside as it takes more investment than 
 just inserting the very first working answer from stackoverflow. Everybody says that security is important, but
 the reality is that we'll always find a good reason to neglect it, if it is not built in entirely
-into our [Software Development Lifecycle (SDLC)](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm). 
+into our [Software Development Life Cycle (SDLC)](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm). 
  
 Thinking with the mindset of a security guy does not come instantly, we have to train ourselves to design and implement
 something which is fairly good as a software and does not expose too many low-hanging vulnerabilities. We share with you 
@@ -33,7 +33,7 @@ know that is almost impossible as we rely on huge piles of 3rd party and legacy 
  make steps towards this integration, the better code quality you can reach in terms of security.  There are many references 
  and guides online (e.g., [OWASP](https://www.owasp.org/index.php/Secure_SDLC_Cheat_Sheet), 
  [NIST](http://csrc.nist.gov/publications/PubsSPs.html)) that can be helpful. Don't forget: no matter what software 
- development model (e.g., Agile, Waterfall) you use security should cover each phase of your software lifecycle.  
+ development model (e.g., Agile, Waterfall) you use security should cover each phase of your software life cycle.  
 
 
 

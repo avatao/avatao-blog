@@ -15,7 +15,7 @@ into our [Software Development Life Cycle (SDLC)](https://www.tutorialspoint.com
 Thinking with the mindset of a security guy does not come instantly, we have to train ourselves to design and implement
  something which is fairly good as a software and does not expose too many low-hanging vulnerabilities
   ([here is an advice](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23) from [Parisa Tabriz](https://www.linkedin.com/in/parisa-tabriz-a676472/), 
-  security expert at Google]. I want to share with you some takeaways that we experienced while developing our avatao platform. 
+  security expert at Google). I want to share with you some takeaways that we experienced while developing our avatao platform. 
 
 <!--excerpt-->
 

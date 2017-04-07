@@ -26,6 +26,7 @@ but if you are not familiar with [race conditions](https://www.javacodegeeks.com
 Thus, you have to be aware of the security pitfalls of the technology you use and the risks you take when you write your code. 
 Long story short, here are the most important takeaways that I have in mind. 
 
+![Learn to build secure software](../images/hacking-1685092_1280.jpg)
 
 ## Security by design
 

@@ -21,7 +21,7 @@ The [first vulnerability](https://www.cvedetails.com/cve/CVE-2017-5638/) has bee
 It turns out that invalid Content-Type headers are not processed as text but as [OGNL code](https://commons.apache.org/proper/commons-ognl/).
 These native payloads will be converted to executables and dropped in the server's temp dir. It's as dangerous as it sounds, no wonder it has a maximum (10.0) score on [CVE Details](https://www.cvedetails.com/cve/CVE-2017-5638/).
 
-![CVE details](../images/CVEs.jpg)
+![CVE details](../images/CVEs.png)
 
 Immediately patching CVEs (in hours, but at least in few days) should be self-evident, 
 however many companies are failing to update known vulnerable components for months or even years and it looks like Equifax is one of them. Let's see the timeline of events:

@@ -12,6 +12,8 @@ of identity thieves, so many Equifax users are really unhappy now. The breach ha
 
 In this post, we will have a look at the technical details of the Equifax breach and learn how this could have been prevented.
 
+<!--excerpt-->
+
 Equifax is using Apache Struts, an open-source MVC Java framework for their web-application. 
 Struts is a popular target for attackers as approximately 65% of Fortune 100 companies use Struts-based applications [according to statistics](http://www.zdnet.com/article/critical-security-bug-threatens-fortune-100-companies/).
 In the past year several vulnerabilites have been found in the software and two of them were RCE (Remote Code Execution) bugs.

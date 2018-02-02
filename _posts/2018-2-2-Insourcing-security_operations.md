@@ -8,6 +8,8 @@ author_web: "http://www.avatao.com"
 
 As the enterprise architecture becomes more and more complex, the task of the Chief Security Information Office (CISO) becomes overwhelming. CISOs have a tough time to find talented cybersecurity professionals to support their job. In an interesting article in VentureBeat, Nir Donitza and Gal Ringel [wrote about the cybersecurity landscape of Israel](https://venturebeat.com/2018/01/31/what-israels-cybersecurity-landscape-foreshadows-for-2018/) in 2018, and what it might predict from the global cybersecurity. A few of their findings point to some interesting trends:
 
+<!--excerpt-->
+
 * CISOs are overwhelmed, so they are increasingly looking for solution platforms that cover multiple areas in cybersecurity
 * security integration is a key criterion for security solutions to work well with the existing systems at the enterprise
 * AI is not ready yet, although promising to enlighten the CISO's job

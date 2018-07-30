@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn about CSP-based XSS protection
-author: Ákos
+author: akos
 author_name: "Ákos Hajba"
 author_web: ""
 ---

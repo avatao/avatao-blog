@@ -1,4 +1,14 @@
-## Practical CSP
+---
+layout: post
+title: Insource instead of outsourcing your cybersecurity operations
+author: mark
+author_name: "Mark Felegyhazi"
+author_web: "http://www.avatao.com"
+---
+
+The web's security model is rooted in the same-origin policy. Each origin is isolated from the rest of the web and codes should only have access to their origin's data. Because of this model, browsers trust every code that shows up on a page as it's a part of the pages' security origin.
+
+<!--excerpt-->
 
 The web's security model is rooted in the same-origin policy. Each origin is isolated from the rest of the web and codes should only have access to their origin's data. Because of this model, browsers trust every code that shows up on a page as it's a part of the pages' security origin.
 

@@ -108,3 +108,5 @@ exclude:
 
 # set excerpts
 excerpt_separator: "<!--excerpt-->"
+
+theme: jekyll-theme-cayman

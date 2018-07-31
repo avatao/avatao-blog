@@ -32,4 +32,4 @@ Content-Security-Policy: script-src trusted.com cdn.com/trusted-script.js
 
 Older browsers, which don't support the CSP3 standard will ignore the `nonce-` and `strict-dynamic` keywords. A possible solution for that is to use the `unsafe-inline` keyword in the `script-src` directive as a fallback. This will result in no protection against XSS vulnerabilities, but will allow the application to function properly for every user.
 
-###Put yourself to our test - [and take a look at our challenge!](https://platform.avatao.com/paths/acb12c27-2027-4218-95ae-c6690e0a96b6/challenges/c36b6d4d-db4a-472c-a5ae-f1f0f90f9ee8)
+### Put yourself to our test - [and take a look at our challenge!](https://platform.avatao.com/paths/acb12c27-2027-4218-95ae-c6690e0a96b6/challenges/c36b6d4d-db4a-472c-a5ae-f1f0f90f9ee8)

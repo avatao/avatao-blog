@@ -1,7 +1,16 @@
-# Broken access control
+---
+layout: post
+title: Broken Access Control 
+author: Márton
+author_name: "Márton Németh"
+author_web: ""
+---
 
 Access control, or authorization, is how a web application grants access to resources to some users, and not others. These resources mostly fall into two categories: sensitive data, which should only be accessed by certain entities, and functions that can modify data on the webserver, or even modify the server's functionality. Authorization checks are performed after authentication: when a user visits a webpage, first they have to authenticate themselves, i.e. log in, then if they try to gain access to a resource, the server checks if they are authorized to do so.
 
+<!--excerpt-->
+
+----
 ## Examples of broken access control
 
 * Insecure ID's
